@@ -1,0 +1,8 @@
+                     precision    recall  f1-score   support
+
+  Ripe Dragon Fruit      0.600     0.002     0.004      3088
+Unripe Dragon Fruit      0.557     0.018     0.035      5378
+
+          micro avg      0.560     0.012     0.024      8466
+          macro avg      0.579     0.010     0.019      8466
+       weighted avg      0.573     0.012     0.024      8466
